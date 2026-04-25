@@ -1,87 +1,60 @@
-# Hi, I'm `s840207702` 👋
+<h1 align="center">Mac</h1>
 
-> Vibe Coding enthusiast · Productivity tool curator · Open-source explorer
+<p align="center">
+  Vibe Coding Enthusiast · Tool Curator · Open-source Explorer
+</p>
 
-我喜欢用 AI 和代码，把一些重复、低效、麻烦的事情，变成顺手的小工具。  
-目前主要关注 **AI 编程、效率工具、自动化工作流、开源项目推荐**，也会把自己踩坑、筛选、实践过的工具和资源，整理成更容易理解的内容分享给大家。
-
----
-
-## 🧭 What I Do
-
-- 🛠️ **Vibe Coding**：用 AI 辅助快速构建想法、原型和实用小工具
-- 🚀 **Productivity Tools**：发现、测试、整理能提升效率的软件工具
-- 🌍 **Open Source Radar**：关注有意思的开源项目，并分享真实使用体验
-- ✍️ **Content Creation**：把技术、工具和工作流讲得更简单、更可落地
+<p align="center">
+  <a href="https://github.com/s840207702?tab=repositories">Projects</a> ·
+  <a href="https://github.com/s840207702?tab=stars">Open-source Radar</a> ·
+  <a href="https://github.com/s840207702">GitHub</a>
+</p>
 
 ---
 
-## 🧰 My Toolbox
+I explore AI coding tools, productivity workflows, and open-source projects — then turn them into practical resources for creators, builders, and people who want to work a little smarter.
+
+我关注的不是“工具越多越好”，而是：哪些工具真的能减少重复劳动、提高创作效率、帮助普通人更快把想法做出来。
+
+---
+
+### What I Care About
+
+| Area | Focus |
+| --- | --- |
+| Vibe Coding | 用 AI 快速把想法变成原型、脚本和小工具 |
+| Productivity | 筛选真正能提升效率的软件、工作流和资源 |
+| Open Source | 发现值得关注的开源项目，并整理真实使用体验 |
+| Creator Tools | 为自媒体、内容创作者和独立开发者寻找更好的工具组合 |
+
+---
+
+### Current Stack
 
 ```txt
-AI Coding        Cursor · Codex · Claude Code · GitHub Copilot
-Automation       n8n · GitHub Actions · Python Scripts
-Frontend         React · Next.js · Tailwind CSS
-Backend          Node.js · Python · API Integration
-Content          Notion · Obsidian · Markdown · Short-form Video
+AI Coding     Cursor · Codex · Claude Code · GitHub Copilot
+Automation    n8n · GitHub Actions · Python · API Workflows
+Web           TypeScript · React · Next.js · Tailwind CSS
+Knowledge     Notion · Obsidian · Markdown · RSS
+Content       Short Video · Tool Reviews · Workflow Notes
 ```
 
 ---
 
-## ✨ Things I'm Interested In
+### Building Direction
 
-- AI Agents and personal automation workflows
-- Lightweight tools that solve real problems
-- Open-source alternatives to expensive SaaS products
-- Knowledge management and creator productivity systems
-- Turning messy ideas into shippable mini-products
-
----
-
-## 📌 Featured Projects
-
-> 这里建议放 3–6 个公开仓库，并在 GitHub 主页 Pin 起来。
-
-| Project | Description | Status |
-| --- | --- | --- |
-| `awesome-productivity-tools` | 我筛选过的效率工具、AI 工具和开源资源清单 | 🧩 Planning |
-| `vibe-coding-lab` | 用 AI 编程快速做出来的小工具实验室 | 🚧 Building |
-| `automation-recipes` | 面向创作者和个人工作流的自动化脚本/教程 | 🚧 Building |
-| `open-source-radar` | 值得关注的开源项目观察与使用笔记 | 📝 Updating |
-
----
-
-## 🧪 Current Focus
-
-```txt
-Building small tools.
-Testing useful software.
-Sharing practical workflows.
-Making productivity feel less complicated.
-```
-
----
-
-## 📊 GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s840207702&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s840207702&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
-
----
-
-## 📫 Connect
-
-- GitHub: [github.com/s840207702](https://github.com/s840207702)
-- Blog / Website: `coming soon`
-- Newsletter / Social Media: `coming soon`
+- Curated lists of AI tools and productivity resources
+- Small automation scripts for daily creator workflows
+- Notes and demos for useful open-source projects
+- Lightweight products built with AI-assisted coding
 
 ---
 
 <p align="center">
-  <em>Good tools compound. Good workflows multiply.</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=s840207702&show_icons=true&hide_border=true&theme=transparent&hide_title=true" alt="GitHub stats" />
 </p>
+
+<p align="center">
+  <sub>Good tools compound. Good workflows multiply.</sub>
+</p>
+
