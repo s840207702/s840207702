@@ -62,6 +62,18 @@ Making productivity feel less complicated.
 
 ---
 
+## 📊 GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s840207702&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s840207702&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
+
+---
+
 ## 📫 Connect
 
 - GitHub: [github.com/s840207702](https://github.com/s840207702)
@@ -73,4 +85,3 @@ Making productivity feel less complicated.
 <p align="center">
   <em>Good tools compound. Good workflows multiply.</em>
 </p>
-
