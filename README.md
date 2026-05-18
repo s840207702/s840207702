@@ -94,7 +94,6 @@ I'm a **vibe coding enthusiast** and content creator exploring the intersection 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=s840207702&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=s840207702&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=7C3AED&currStreakLabel=60A5FA" alt="GitHub streak" />
 
 </div>
